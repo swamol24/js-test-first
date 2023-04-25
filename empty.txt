@@ -1,0 +1,33 @@
+1.what is a function?
+ans: it is block of code which perform specifc operation and also we can use multiple times.
+2.what is statement?
+ans:single line of code which contain variables,value etc.
+3.what are loops?give a example?
+ans:sequence of instruction which continually repeated until certain condition reached.
+var num;
+for(var num=1;num<=10;num++)
+
+4.Q
+ans:nothing but container which store data & retrive when it require.
+5.Q
+ans:var number=1;
+Q.6
+ans:total eight datatypes
+1.bigint
+2.boolean
+3.number
+4.null
+5.undefined
+6.symbol
+7.string
+8.object
+Q.7
+ans:typeof() and NOT.
+Q.8
+ans:var function square(a,a){
+return a*a;
+}
+Q.9
+ans:undefined
+Q.10 
+ans:to access the property for example object.property.
